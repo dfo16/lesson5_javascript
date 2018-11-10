@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 2, 2018    
 
 ### Student Name:  
-(First and Last Name)
+Danielle Osdon
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project is a currency calculator that prompts the user for a US Dollar amount.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://dfo16.github.io/lesson5_javascript/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to use functions (the calculateCurrency and clearButton function).
+2. I learned how to use switch statements for the menu.
+3. I learned how to reset the page using the clear button. 
 
